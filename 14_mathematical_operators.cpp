@@ -8,13 +8,13 @@ int main()
   int r;
 
   r = a + 10 * b - c;
-  cout << "the result is" << r << endl;
+  cout << "the result is " << r << endl;
 
   r = (a + 10) * b - c;
-  cout << "the result is" << r << endl;
+  cout << "the result is " << r << endl;
 
   r = (a + 10) * (b - c);
-  cout << "the result is" << r;
+  cout << "the result is " << r;
 
   return 0;
 }
